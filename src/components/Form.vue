@@ -1,4 +1,5 @@
 <template>
+<h1>Register to NOTTECH Lab</h1>
   <form @submit.prevent="handleSubmit">
    <label>Email:</label>
    <input type="email" required v-model="email">
