@@ -1,19 +1,13 @@
-# v-project04
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+General concept gained from this project is form properties
+<br>
+2-Way Data Binding
+<br>
+Select option
+<br>
+checkboxes
+<br>
+Keyboard Events
+<br>
+Deleting skills
+<br>
+Submitting Forms
