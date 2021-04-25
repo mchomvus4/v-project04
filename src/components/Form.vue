@@ -20,6 +20,7 @@
    </div>
 
    <div class="terms">
+    <p><a href="https://www.nottech.co.tz/" target="_blank" class="terms">Terms and Conditions</a></p>
     <input type="checkbox" v-model="terms" required>
     <label>Accept terms and conditions</label>
    </div>
@@ -141,5 +142,8 @@ button{
  margin-top: 10px;
  font-size: 0.8em;
  font-weight: bold;
+}
+.terms{
+ text-decoration: none;
 }
 </style>
