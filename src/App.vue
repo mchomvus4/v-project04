@@ -1,14 +1,17 @@
 <template>
   <Form/>
+  <Footer/>
 </template>
 
 <script>
 
 import Form from './components/Form'
+import Footer from './components/Footer'
 export default {
   name: 'App',
   components: {
-  Form
+  Form,
+  Footer
   }
 }
 </script>
