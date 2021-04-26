@@ -65,11 +65,7 @@ methods: {
    this.passwordError = this.password.length > 8 ? 
      '' : 'Password must be at least 8 character long'
      if(!this.passwordError){
-      console.log('email', this.email)
-      console.log('password', this.password)
-      console.log('role', this.role)
-      console.log('skills', this.skills)
-      console.log('terms', this.terms)
+      alert('Data submitted successfull')
      }
  }
 }
